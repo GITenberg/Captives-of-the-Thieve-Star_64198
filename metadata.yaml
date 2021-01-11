@@ -1,0 +1,24 @@
+_repo: Captives-of-the-Thieve-Star_64198
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schmitz, James H.
+    alias: Schmitz, James Henry
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '24957'
+    url: http://www.gutenberg.org/2009/agents/24957
+    wikipedia: http://en.wikipedia.org/wiki/James_H._Schmitz
+description: ''
+gutenberg_issued: '2021-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Captives of the Thieve-Star
+url: http://www.gutenberg.org/ebooks/64198
