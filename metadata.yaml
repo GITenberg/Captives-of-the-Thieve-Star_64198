@@ -1,5 +1,8 @@
 _repo: Captives-of-the-Thieve-Star_64198
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64198-h/images/cover.jpg
 creator:
   author:
     agent_name: Schmitz, James H.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24957
     wikipedia: http://en.wikipedia.org/wiki/James_H._Schmitz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64198#Captives-of-the-Thieve-Star
 gutenberg_issued: '2021-01-02'
 gutenberg_type: Text
 identifiers:
